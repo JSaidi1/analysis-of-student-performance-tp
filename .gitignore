@@ -218,3 +218,6 @@ __marimo__/
 
 # not useful Looping (mcd) file
 **lo1
+
+# logs folder
+**/logs
